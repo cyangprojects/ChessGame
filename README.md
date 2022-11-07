@@ -16,3 +16,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+## Program Description
+This is a fully functional chess game developed using JAVA and JAVAFX graphics. It includes En Pessant, Castling, Promotion, and Check Detection functionality. This program is made completely from scratch without the help of a prior format or class structure.
